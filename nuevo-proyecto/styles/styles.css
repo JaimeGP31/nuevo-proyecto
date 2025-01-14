@@ -10,15 +10,15 @@
     justify-content: center;
     flex-direction: column;
     align-items: center;
-    background-color: #123456;
+    background-color: #0406;
 }
 #main h1{
     color: white;
     font-size: 70px;
 }
 #main p{
-    color: white;
-    font-size: 20px;
+    color: black;
+    font-size: 29px;
     line-height: 3rem;
     letter-spacing: 1.5px;
     text-align: center;
@@ -32,4 +32,10 @@
     width: 10%;
     font-size: 18px;
     cursor: pointer;
+}
+body{
+    background-image: url(https://media.gettyimages.com/id/2186466084/es/foto/valencia-spain-general-view-inside-the-stadium-as-valencia-play-their-first-game-since.jpg?s=612x612&w=gi&k=20&c=58ZQLXTWidAc_KvyxVs6OtvWULSZdayZjMP-lvRASc0=);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
